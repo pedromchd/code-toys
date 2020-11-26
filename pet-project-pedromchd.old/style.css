@@ -1,0 +1,16 @@
+body {
+  background-color: greenyellow;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header .titulo {
+  color: green;
+}
+
+.header .subtitulo {
+  color: green;
+}
+
+.section span {
+  font-size: 125%;
+}
